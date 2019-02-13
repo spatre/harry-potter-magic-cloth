@@ -1,4 +1,4 @@
-# invisible-magic-cloth
+# Harry Potter Magic Cloth Effect
 Explore the Invisible magic cloth effect without using VFX
 
 Follow the below steps to experience invisibilty cloth effect from Harry Potter
